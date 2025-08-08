@@ -19,11 +19,7 @@ It uses a multi-output regression model trained on historical water quality data
 
 ---
 
-## 🖼️ Demo Screenshot
 
-*(Insert a screenshot here if you have one)*
-
----
 
 ## 📦 Features
 
@@ -54,10 +50,6 @@ WaterQuality-Predictor/
 ├── model_columns.pkl # Column structure used by the model
 ├── requirement.txt # Python dependencies
 └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -98,8 +90,6 @@ pollution_model.pkl
 
 model_columns.pkl
 
-📜 License
-This project is licensed under the MIT License.
 
 🙋‍♂️ Author
 Pritam Saha
