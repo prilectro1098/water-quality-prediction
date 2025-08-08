@@ -109,8 +109,4 @@ Year: 2025
 🌟 Star this repo
 If this project helped you, consider giving it a ⭐ on GitHub!
 
-yaml
-Copy
-Edit
 
----
